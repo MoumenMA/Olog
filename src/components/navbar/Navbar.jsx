@@ -6,7 +6,7 @@ function Navbar() {
   return (
     <div className={styles.container}>
       <Link href="/" className={styles.logo}>
-        OgoL
+        Logo
       </Link>
       <div>
         <Links />
